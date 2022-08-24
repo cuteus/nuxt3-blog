@@ -4,7 +4,7 @@ export default {
   githubName: "cuteus", // github账户名
   githubRepo: "nuxt3-blog", // 勿修改
   githubBranch: "master", // 勿修改
-  domain: "https://blog.halberd.cn", // rss域名
+  domain: "https://nuxt3-blog-neon.vercel.app/", // rss域名
   SEO_description: "homo的博客，书写恶臭的文章",
   SEO_keywords: "yunyuyuan,yunyuyuan's blog,114514，homo的博客",
 
